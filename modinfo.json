@@ -1,0 +1,20 @@
+{
+  "context": "client",
+  "identifier": "com.pa.map.custom.csg.letters",
+  "display_name": "Letter csg's",
+  "description": "Allows you to place Letter csg's in map editor",
+  "author": "bsport",
+  "version": "01",
+  "build": "72332",
+  "date": "2015/01/09",
+  "signature": "not yet implemented",
+  "forum": "",
+  "category": [
+    "ui"
+  ],
+  "scenes": {
+  },
+  "id": "com.pa.map.custom.csg.letters",
+  "priority": 100,
+  "enabled": true
+}
